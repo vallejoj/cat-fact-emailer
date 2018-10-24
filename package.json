@@ -5,7 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nodemailer": "^4.6.8"
   },
   "devDependencies": {},
   "scripts": {
